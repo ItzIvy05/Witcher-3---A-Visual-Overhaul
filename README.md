@@ -1,5 +1,4 @@
-# Witcher 3 - A VisualOverhaul
-#### SkyGround-Chronicles
+#### Witcher 3 - A Visual Overhaul
 
 ![](https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Witcher3/Witcher3Main.png)
 
